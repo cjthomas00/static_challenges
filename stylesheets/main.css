@@ -1,0 +1,38 @@
+header {
+  background-color: rgb(156, 18, 18);
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+navigator {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(76, 71, 71);
+  padding: 1em;
+  }
+
+section {
+  float: left;
+  display: flex 
+}
+article {
+float: left;}
+
+aside {
+  display: block;
+  float: right;
+  text-align: right;
+}
+h2  { 
+  font-weight: bold;
+  text-align: left;
+}
+
+footer {
+  display: flex;
+  background-color: gray;
+  color: white;
+  padding: 2em;  }
